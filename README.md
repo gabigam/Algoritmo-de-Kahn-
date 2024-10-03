@@ -26,11 +26,11 @@ O programa utiliza o algoritmo de Kahn para encontrar uma ordenação linear dos
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabigam/algoritmo-de-kahn.git
+   git clone https://github.com/gabigam/Algoritmo-de-Kahn.git
    ```
-2. Navegue até o diretório do projeto.
+2. Navegue até o diretório do projeto:
    ```bash
-   cd algoritmo-de-kahn
+   cd Algoritmo-de-Kahn
    ```
 3. Execute o arquivo Python:
    ```bash
@@ -38,3 +38,5 @@ O programa utiliza o algoritmo de Kahn para encontrar uma ordenação linear dos
    ```
 
 Os resultados das ordenações lineares dos grafos serão impressos no terminal.
+```
+
